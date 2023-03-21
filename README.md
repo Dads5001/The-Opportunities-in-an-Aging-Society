@@ -9,7 +9,7 @@
 
 โดยมีเกณฑ์การให้คะแนนภาพรวมของดัชนี (Overall Index Value : OIV) เป็นดังนี้
 
-<img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/The%20Mercer%20CFA%20Institute%20Global%20Pension%20Index.jpg" width="200" height="200" />
+<img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/The%20Mercer%20CFA%20Institute%20Global%20Pension%20Index.jpg" width="250" height="300" />
 
 
 1.ความเพียงพอ (Adequacy) น้ำหนักคะแนน 40%
