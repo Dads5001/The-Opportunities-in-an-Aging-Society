@@ -8,7 +8,7 @@
 <br />โดยมีเกณฑ์การให้คะแนนภาพรวมของดัชนี (Overall Index Value : OIV) เป็นดังนี้
 
 <p align="center">
-  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/The%20Mercer%20CFA%20Institute%20Global%20Pension%20Index.jpg" width="580" height="450" />
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/The%20Mercer%20CFA%20Institute%20Global%20Pension%20Index.jpg">
 
 
 1.ความเพียงพอ (Adequacy) น้ำหนักคะแนน 40%
@@ -32,6 +32,8 @@
 เมื่อเปรียบเทียบ สัดส่วนคะแนนภาพรวมของดัชนี OIV สูงสุดและต่ำสุด
 ระหว่าง ไอซ์แลนด์ และไทย ของปี ค.ศ. 2022 พบว่า มีช่วงคะแนนที่แตกต่างกันประมาณ 25 - 39 %
 
+<p align="center">
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/ratioIcelandandThailand.png">
 
 สำหรับการวิเคราะห์ในรายละเอียดเชิงลึกในแต่ละด้าน พบว่า
 ค่าดัชนีของไทยต่ำกว่าค่าเฉลี่ยในทุกๆด้าน
