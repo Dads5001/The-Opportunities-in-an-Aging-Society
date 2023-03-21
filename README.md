@@ -45,7 +45,7 @@
 ในขณะที่เส้นกราฟ Sustainability ของไทย มีแนวโน้มลดต่ำลง ซึ่งสวนทางกับค่าเฉลี่ยโดยรวมที่มีแนวโน้มสูงขึ้น
 
 <p align="center">
-  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/ratioIcelandandThailand.png">
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/graph.png">
 
 จากแนวโน้มของกราฟ Sustainability ของไทยที่ลดลงอย่างเป็นสาระสำคัญนั้น จึงจำเป็นต้องเข้าไปศึกษาเพื่อหาสาเหตุของการลดลงว่าเกิดจากสาเหตุใด 
 และหน่วยงานที่เกี่ยวข้องมีแผนบริหารจัดการแล้วหรือไม่ อย่างไร เพื่อให้คนไทยมีเงินทุนเพื่อการเกษียณอย่างยั่งยืน
