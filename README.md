@@ -118,7 +118,8 @@
 ทีมงานได้ใช้ค่าสัมประสิทธิ์สหสัมพันธ์แบบเพียร์สัน (Pearson Correlation Coefficient : r ) เพื่ออธิบายลักษณะความสัมพันธ์ของดัชนีต่างๆ จากข้อมูลที่มีการเก็บรวบรวม
   
   
-  (proj11-3_image1.png)  
+  <p align="center">
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image1.png"> 
   
   
 <br />ค่าสัมประสิทธิ์สหสัมพันธ์ จะมีค่าอยู่ในช่วง [-1, 1]
