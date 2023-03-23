@@ -158,7 +158,7 @@
 <br />3. จำนวนประชากรอายุน้อยกว่า 15 ปี (population_age_less_than15)
   
   
-  (proj11-3_image4.png)
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image2.png"> 
   
   
 <br />และเมื่อมุ่งเน้นไปที่ดัชนีข้อมูลจำนวนประชากรเกิด (births)
