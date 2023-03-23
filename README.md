@@ -123,6 +123,8 @@
 <br />และค่าสหสัมพันธ์เท่ากับ 0 อธิบายการไม่มีความสัมพันธ์กันของดัชนีคู่เทียบ
   
   
+  
+  
   <p align="center">
   <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image1.png"> 
   
@@ -169,6 +171,8 @@
 <br />ตลอดจนเป็นช่องว่างให้ภาครัฐบาลและภาคธุรกิจสามารถต่อยอดโอกาส ร่วมกันสร้างสังคมผู้สูงอายุที่สมดุล ยั่งยืนได้ดังนี้
   
   
+    
+    
   <p align="center">
   <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image5.png"> 
   
