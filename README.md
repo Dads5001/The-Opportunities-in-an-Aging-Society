@@ -149,7 +149,8 @@
 <br />3. จำนวนประชากรอายุน้อยกว่า 15 ปี (population_age_less_than15)
   
   
-  (proj11-3_image3.png)
+  <p align="center">
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image3.png">
   
   
 <br />ปี ค.ศ. 2022 ดัชนีที่มีระดับ Strong Relationship มากที่สุด 3 อันดับแรก ได้แก่
@@ -168,7 +169,8 @@
 <br />ตลอดจนเป็นช่องว่างให้ภาครัฐบาลและภาคธุรกิจสามารถต่อยอดโอกาส ร่วมกันสร้างสังคมผู้สูงอายุที่สมดุล ยั่งยืนได้ดังนี้
   
   
-  (proj11-3_image5.png)
+  <p align="center">
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image5.png"> 
   
   
 
