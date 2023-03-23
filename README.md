@@ -139,8 +139,8 @@
 <br />2. จำนวนประชากรอายุน้อยกว่า 15 ปี (population_age_less_than15) 
 <br />3. อัตราการเสียชีวิตของทารก (infant_mortality_rate)
 
-  
-   (proj11-3_image2.png)
+  <p align="center">
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image2.png">
   
   
 <br />ปี ค.ศ. 2021 ดัชนีที่มีระดับ Strong Relationship มากที่สุด 3 อันดับแรก ได้แก่ 
@@ -158,7 +158,8 @@
 <br />3. จำนวนประชากรอายุน้อยกว่า 15 ปี (population_age_less_than15)
   
   
-  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image2.png"> 
+  <p align="center">
+  <img src="https://github.com/Dads5001/The-Opportunities-in-an-Aging-Society/blob/main/proj11-3_image4.png"> 
   
   
 <br />และเมื่อมุ่งเน้นไปที่ดัชนีข้อมูลจำนวนประชากรเกิด (births)
